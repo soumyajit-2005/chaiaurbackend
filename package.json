@@ -2,11 +2,14 @@
   "name": "chaiaurbackend",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
   "author": "Soumyajit Rana",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
